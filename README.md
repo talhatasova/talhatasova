@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Java Game Project with the libGDX library.<br>💬 Ask me about Web Scraping<br>⚡ Fun fact is that I hold a bachelor in Electronics, not Computer Engineering.
+💬 Ask me about Web Scraping<br>⚡ Fun fact is that I hold a bachelor in Electronics, not Computer Engineering.
 
 
 ## 🌐 Socials:
